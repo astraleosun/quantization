@@ -43,15 +43,5 @@ A comprehensive collection of quantization techniques and implementations for op
 
 3. Execute cells sequentially to follow along with each lesson
 
-## Instructors
-
-🌟 **Younes Belkada** & **Marc Sun**  
-Machine Learning Engineers at Hugging Face
-
-## Repository Information
-
-- **Repository**: https://github.com/astraleosun/quantization
-- **Latest Commit**: 3e71b3d96bd26e6a2197f23e67058183c24c9b59
-- **License**: Educational use only - subject to DeepLearning.AI terms
 
 🔗 For course enrollment and further information: [deeplearning.ai](https://www.deeplearning.ai/short-courses/)
